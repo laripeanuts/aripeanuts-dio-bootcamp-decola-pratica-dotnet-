@@ -1,0 +1,14 @@
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+E:\Dropbox\Programacao\DIO\DecolaTech\DotNet\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
